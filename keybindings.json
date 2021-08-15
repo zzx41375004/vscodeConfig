@@ -36,6 +36,13 @@
     {
         "key": "alt+w",
         "command": "workbench.action.files.save"
+    },
+    {
+        "key": "alt+-",
+        "command": "workbench.action.navigateBack"
+    },
+    {
+        "key": "alt+=",
+        "command": "workbench.action.navigateForward"
     }
-
 ]

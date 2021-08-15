@@ -56,22 +56,6 @@
         // "statusBar.border": "#ffc600"
     },
     "C_Cpp.updateChannel": "Insiders",
-    "vscode-neovim.highlightGroups.highlights": {
-    
-        "Directory": "vim",
-        "IncSearch": {
-            "backgroundColor": "theme.editor.findMatchBackground",
-            "borderColor": "theme.editor.findMatchBorder"
-        },
-        "Search": {
-            "backgroundColor": "theme.editor.findMatchHighlightBackground",
-            "borderColor": "theme.editor.findMatchBorder"
-        },
-        "Visual": {
-        },
-        "Conceal": "vim",
-        "Substitute": "vim"
-    },
     "editor.fontSize": 16,
-    "workbench.colorTheme": "Monokai",
+    "workbench.colorTheme": "Default High Contrast",
 }
