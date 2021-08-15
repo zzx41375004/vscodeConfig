@@ -1,0 +1,77 @@
+{
+    "keyboard.dispatch": "keyCode",
+    "editor.cursorBlinking": "solid",
+    // "vim.easymotion": true,
+    // "vim.incsearch": true,
+    // "vim.useSystemClipboard": true,
+    // "vim.useCtrlKeys": true,
+    // "vim.hlsearch": true,
+    // "vim.insertModeKeyBindings": [
+    //   {"before": ["n", "n"],"after": ["<Esc>"]},
+    // ],
+    // "vim.normalModeKeyBindingsNonRecursive": [
+    //   {"before": ["<leader>", "d"],"after": ["d", "d"]},
+    //   {"before": ["n"],"after": ["h"]},
+    //   {"before": ["u"],"after": ["k"]},
+    //   {"before": ["e"],"after": ["j"]},
+    //   {"before": ["i"],"after": ["l"]},
+    //   {"before": ["h"],"after": ["i"]},
+    //   {
+    //     "before": ["<C-n>"],
+    //     "commands": [":nohl"]
+    //   }
+    // ],
+    // "vim.leader": "<space>",
+    // "vim.vimrc.enable": true,
+    // "vim.vimrc.path": "~/.config/nvim/mapForVs.vim",
+    // "vim.statusBarColorControl": true,
+    // "vim.statusBarColors.normal": ["#8FBCBB", "#434C5E"],
+    // "vim.statusBarColors.insert": "#BF616A",
+    // "vim.statusBarColors.visual": "#B48EAD",
+    // "vim.statusBarColors.visualline": "#B48EAD",
+    // "vim.statusBarColors.visualblock": "#A3BE8C",
+    // "vim.statusBarColors.replace": "#D08770",
+    // "vim.statusBarColors.commandlineinprogress": "#007ACC",
+    // "vim.statusBarColors.searchinprogressmode": "#007ACC",
+    // "vim.statusBarColors.easymotionmode": "#007ACC",
+    // "vim.statusBarColors.easymotioninputmode": "#007ACC",
+    // "vim.statusBarColors.surroundinputmode": "#007ACC",
+    "vscode-neovim.neovimExecutablePaths.linux":"/usr/bin/nvim",
+    "editor.scrollBeyondLastLine": false,
+    "editor.smoothScrolling": true,
+    "workbench.list.smoothScrolling": true,
+    "terminal.external.linuxExec": "st",
+    "editor.cursorSurroundingLines": 99,
+    "editorCursor.foreground": "#ee3f4d",
+    "workbench.colorCustomizations": {
+        // "activityBarBadge.background": "#ffc600",
+        "editorCursor.foreground": "#ee3f4d",
+        // "inputValidation.errorBorder": "#ffc600",
+        // "panel.border": "#ffc600",
+        // "panelTitle.activeBorder": "#ffc600",
+        // "panelTitle.activeForeground": "#ffc600",
+        // "peekView.border": "#ffc600",
+        // "peekViewTitleLabel.foreground": "#ffc600",
+        // "tab.activeBorder": "#ffc600",
+        // "statusBar.border": "#ffc600"
+    },
+    "C_Cpp.updateChannel": "Insiders",
+    "vscode-neovim.highlightGroups.highlights": {
+    
+        "Directory": "vim",
+        "IncSearch": {
+            "backgroundColor": "theme.editor.findMatchBackground",
+            "borderColor": "theme.editor.findMatchBorder"
+        },
+        "Search": {
+            "backgroundColor": "theme.editor.findMatchHighlightBackground",
+            "borderColor": "theme.editor.findMatchBorder"
+        },
+        "Visual": {
+        },
+        "Conceal": "vim",
+        "Substitute": "vim"
+    },
+    "editor.fontSize": 16,
+    "workbench.colorTheme": "Monokai",
+}
